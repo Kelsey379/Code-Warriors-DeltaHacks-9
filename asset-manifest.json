@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Code-Warriors-DeltaHacks-9/static/css/main.9d5a49ff.css",
+    "main.js": "/Code-Warriors-DeltaHacks-9/static/js/main.2fb7584b.js",
+    "static/media/trees.mp4": "/Code-Warriors-DeltaHacks-9/static/media/trees.f67585e9baf88705f1ab.mp4",
+    "static/media/popup.png": "/Code-Warriors-DeltaHacks-9/static/media/popup.1094ca3de6a09ad18211.png",
+    "static/media/image_description.png": "/Code-Warriors-DeltaHacks-9/static/media/image_description.bc1fde8d1f227e00b625.png",
+    "static/media/asmodeus.png": "/Code-Warriors-DeltaHacks-9/static/media/asmodeus.5aba112d980a54d49124.png",
+    "static/media/questlines.png": "/Code-Warriors-DeltaHacks-9/static/media/questlines.0b07d9016ddb273c8b0a.png",
+    "static/media/description.png": "/Code-Warriors-DeltaHacks-9/static/media/description.0cfe14c1709a52a1d686.png",
+    "static/media/pythonmissions.png": "/Code-Warriors-DeltaHacks-9/static/media/pythonmissions.5a1d74d6b53bc46fc228.png",
+    "static/media/mountain.mp4": "/Code-Warriors-DeltaHacks-9/static/media/mountain.66925340662b0814a9ea.mp4",
+    "static/media/progressset.png": "/Code-Warriors-DeltaHacks-9/static/media/progressset.dd70ff584a984cd03ce1.png",
+    "index.html": "/Code-Warriors-DeltaHacks-9/index.html",
+    "main.9d5a49ff.css.map": "/Code-Warriors-DeltaHacks-9/static/css/main.9d5a49ff.css.map",
+    "main.2fb7584b.js.map": "/Code-Warriors-DeltaHacks-9/static/js/main.2fb7584b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5a49ff.css",
+    "static/js/main.2fb7584b.js"
+  ]
+}
